@@ -4,4 +4,6 @@ Lines:
 104, same as line 34
 141, added "But of course!" instead of sure, added "your" as if your numerous crimes against Holland 
 164, changed it to them and refrased one sentence into "The coordinates of the meeting are in there as well." 
-189, 
+189, "for what term?" changed into "So, how many days?"
+197, added missing "you", removed "that" from Remember that ... into Remember, ... , refrased the ending into "...and that would be it. Now let us discuss the terms."
+416, changed from "Your silk will be delivered to your ship on barque." into "Your silk will be delivered to your ship on a boat." (barque is already a ship people might judge if it's not in the port, boat however is just a boat no one will care since you also have one docked right at the pier).
